@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="images_source">
+    <file>image/运行.png</file>
+    <file>image/结束.png</file>
+    <file>image/recipe1.png</file>
+    <file>image/control1.png</file>
+    <file>image/Brand.png</file>
+    <file>image/Logo.png</file>
+    <file>image/main.png</file>
+    <file>image/history1.png</file>
+    <file>image/database1.png</file>
+    <file>image/parameter1.png</file>
+    <file>image/user1.png</file>
+    <file>image/Bg (1).png</file>
+  </qresource>
+</RCC>
